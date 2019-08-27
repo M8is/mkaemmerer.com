@@ -14,9 +14,8 @@ pic: picture.jpg  # Place a 200x200 picture inside /assets/img/ folder
 
 # Contact links
 email: mattis.kaemmerer@gmx.de
-website: m8is.de
 github: m8is
-phone:
+stackoverflow: 7511394
 twitter: '@m8is'
 
 # Comments
