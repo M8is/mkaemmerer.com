@@ -1,17 +1,15 @@
 title: Mattis Kaemmerer
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Site of Mattis Kaemmerer, yet another happy computer scientist. :-)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://m8is.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mkaemmerer.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark
 
 # Profile information
 name: Mattis Manfred Kaemmerer
-tagline: Studying Autonomous Systems at TU Darmstadt
-about-description: Hello there! Currently, I study for a master's degree in computer science, specialized on autonomous systems, at TU Darmstadt. My courses are focused on machine learning and artificial intelligence. Whenever possible, I also love to teach because it feels so good to see people improve and it really helps me to evaluate my own skills. If there is something you would like to know, feel free to contact me. :)
+tagline: Studying Computer Science at TU Darmstadt
+about-description: Hello there! Currently, I study for a master's degree in computer science at TU Darmstadt. My courses are focused on machine learning and artificial intelligence. Whenever possible, I also love to teach because it feels so good to see people improve and it really helps me to evaluate my own skills. If there is something you would like to know, feel free to contact me. :)
 pic: picture.jpg  # Place a 200x200 picture inside /assets/img/ folder
 
 # Contact links
