@@ -30,7 +30,7 @@ My paper should be
 
 * complete, i.e., formally define everything we use,
 * concise, i.e., only introduce necessary definitions,
-* comprehensible, i.e. avoid logical shortcuts.
+* comprehensible, i.e., avoid logical shortcuts.
 
 To be honest, my understanding is that all papers should follow these rules.
 Alas that this has not been my experience.
