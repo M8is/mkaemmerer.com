@@ -12,7 +12,7 @@ This is kind of a long story, so feel free to skip to the tl;dr. :)
 In the winter semester 2018/19, I attended a lecture offered by the Intelligent Autonomous Systems (IAS) [1] group at TU Darmstadt. 
 These lectures have the reputation to be very time-intensive, but they are just as much rewarding.
 Only for that semester, there was a rare opportunity to get the whole swoop of reinforcement learning in the form of a lecture, a project, and a seminar paper.
-Though this meant sacificing some CP for the semester, I felt like this was a great chance to get into the topic.
+Though this meant sacrificing some CP for the semester, I felt like this was a great chance to get into the topic.
 So I did.
 
 As I was thinking about a topic for my seminar paper, most other students chose something pragmatic like a survey, or comparisons between approaches.
