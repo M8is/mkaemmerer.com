@@ -8,8 +8,8 @@ blog_theme: dark
 
 # Profile information
 name: Mattis Manfred Kaemmerer
-tagline: Studying Computer Science at TU Darmstadt
-about-description: Hello there! Currently, I study for a master's degree in computer science at TU Darmstadt. My courses are focused on machine learning and artificial intelligence. Whenever possible, I also love to teach because it feels so good to see people improve and it really helps me to evaluate my own skills. If there is something you would like to know, feel free to contact me. :)
+tagline: Software Quality Consultant & Software Developer at CQSE GmbH
+about-description: Hello there! I am a software quality consultant and software developer at CQSE GmbH. Whenever possible, I also love to teach because it feels so good to see people improve and it helps me to evaluate my own skills. If there is something you would like to know, feel free to contact me. :)
 pic: picture.jpg  # Place a 200x200 picture inside /assets/img/ folder
 
 # Contact links
@@ -36,7 +36,7 @@ exclude:
   - Gemfile.lock
   - README.md
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-assets
 exclude:
